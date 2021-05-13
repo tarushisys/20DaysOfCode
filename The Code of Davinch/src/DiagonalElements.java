@@ -32,6 +32,6 @@ public class DiagonalElements {
             }
         }
         System.out.println("Sum of left diagonal elements: "+sum);
-        System.out.println("Sum of right diagonal elements :  "+rsum);
+        System.out.println("Sum of right diagonal elements : "+rsum);
     }
 }
